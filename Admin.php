@@ -496,7 +496,7 @@ $user_data = check_login($con);
                         <span>Foods </span>
                     </div>
                     <div>
-                        <i class="fa fa-drivers-license-o"></i>
+                        <i class="fa fa-coffee"></i>
                     </div>
                 </div>
                 <div class="card-single">
